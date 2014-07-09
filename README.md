@@ -1,4 +1,4 @@
 Pythonista
 ==========
 
-script for Pythonista on iOS.
+Script for Pythonista - iOS.
